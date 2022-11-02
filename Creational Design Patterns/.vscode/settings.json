@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "creational/lib/commons-csv-1.9.0.jar",
+        "creational/lib/commons-lang3-3.12.0.jar",
+        "creational/lib/javax.xml-1.3.4.jar",
+        "creational/lib/json-simple-1.1.1.jar",
+        "creational/lib/junit-4.13.2.jar",
+        "creational/lib/junit-jupiter-api-5.8.1.jar",
+        "creational/lib/junit-jupiter-engine-5.8.1.jar",
+        "creational/lib/w3c-dom.jar"
+    ]
+}
